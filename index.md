@@ -2,4 +2,4 @@
 layout: base
 ---
 
-<img src="trees.jpeg" />
+<img src="trees.gif" style="height:80%;" />
